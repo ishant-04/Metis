@@ -17,6 +17,9 @@ tsconfig.tsbuildinfo
 **/.env.*
 **/.env
 
+#docs
+/docs
+
 # etc
 .DS_Store
 .idea
